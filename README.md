@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cynthia Nafula
-- 👀 I’m interested in building models and business applications that help solve problems
+- 👀 I’m interested in using data to solve problems
 - 🌱 I’m currently learning data science,power apps and machine learning
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email: adamscynthia08@gmail.com
